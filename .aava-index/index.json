@@ -1,0 +1,408 @@
+{
+  "repo": "Saravanan1689/trulens",
+  "branch": "main",
+  "total_files": 100,
+  "status": "full",
+  "files": {
+    ".azure_pipelines/README.md": {
+      "sha": "34b15995bea94bb6e19e6b8c257c5f33b1c524f7",
+      "summary": "Markdown docs file: README.md - contains tests, database migration (path: .azure_pipelines/README.md)"
+    },
+    ".azure_pipelines/ci-docs-pr.yaml": {
+      "sha": "e35f680c510a0c5923df4acae15f56bbbc5fcfe6",
+      "summary": "YAML config file: ci-docs-pr.yaml - contains tests (path: .azure_pipelines/ci-docs-pr.yaml)"
+    },
+    ".azure_pipelines/ci-eval-pr.yaml": {
+      "sha": "3905a5a14da339e8ccc71fde0c0666a572d618bb",
+      "summary": "YAML config file: ci-eval-pr.yaml - contains tests (path: .azure_pipelines/ci-eval-pr.yaml)"
+    },
+    ".azure_pipelines/templates/build-conda-packages.yaml": {
+      "sha": "e130158a795d34d6efa28b7d7f4817f217dbeff6",
+      "summary": "YAML config file: build-conda-packages.yaml - contains tests, configuration file (path: .azure_pipelines/templates/build-conda-packages.yaml)"
+    },
+    ".azure_pipelines/templates/env-setup.yaml": {
+      "sha": "b6479b5adba540a6f6005a03a5157a7d92dd8673",
+      "summary": "YAML config file: env-setup.yaml - contains tests, configuration file (path: .azure_pipelines/templates/env-setup.yaml)"
+    },
+    ".azure_pipelines/templates/run-precommits.yaml": {
+      "sha": "c266a092a3d4461e29570c97171fd7b21f4ab183",
+      "summary": "YAML config file: run-precommits.yaml (path: .azure_pipelines/templates/run-precommits.yaml)"
+    },
+    ".azure_pipelines/templates/run-tests.yaml": {
+      "sha": "dc33999a1fe76011f2fb3cdd70090d431e011414",
+      "summary": "YAML config file: run-tests.yaml - contains tests, configuration file (path: .azure_pipelines/templates/run-tests.yaml)"
+    },
+    ".gitattributes": {
+      "sha": "ba13248b57381a351b33a175af0d15dd9c5af585",
+      "summary": "GITATTRIBUTES file: .gitattributes (path: .gitattributes)"
+    },
+    ".github/ISSUE_TEMPLATE/bug-report.md": {
+      "sha": "51cb520b7a8b84c9767b0db00315e7877d328098",
+      "summary": "Markdown docs file: bug-report.md (path: .github/ISSUE_TEMPLATE/bug-report.md)"
+    },
+    ".github/ISSUE_TEMPLATE/feature_request.md": {
+      "sha": "8d68621e978972b915e1b2ba5a2af3559401d885",
+      "summary": "Markdown docs file: feature_request.md (path: .github/ISSUE_TEMPLATE/feature_request.md)"
+    },
+    ".gitignore": {
+      "sha": "2e814a4686e3b93a0ad50cb932a6fa35ac073dd2",
+      "summary": "GITIGNORE file: .gitignore - contains tests, configuration file (path: .gitignore)"
+    },
+    ".grit/dealias_trulens_eval.grit": {
+      "sha": "0fba1b32cc05d6b4358b915f0abb34bde5a58c2d",
+      "summary": "GRIT file: dealias_trulens_eval.grit - module with dependencies (path: .grit/dealias_trulens_eval.grit)"
+    },
+    ".grit/dealias_trulens_eval.py": {
+      "sha": "08eaa4f2b707486c26c1aa0a1a804fef0b4f1eb2",
+      "summary": "Python file: dealias_trulens_eval.py - contains tests, module with dependencies (path: .grit/dealias_trulens_eval.py)"
+    },
+    ".grit/patterns/trulens_eval_migration.md": {
+      "sha": "abf52c799d256c8f0b4572c18977c2a65d296381",
+      "summary": "Markdown docs file: trulens_eval_migration.md - defines classes/functions, module with dependencies (path: .grit/patterns/trulens_eval_migration.md)"
+    },
+    ".pre-commit-config.yaml": {
+      "sha": "55508e207d10ce60123cb812868b7cf4f7fad9a2",
+      "summary": "YAML config file: .pre-commit-config.yaml - configuration file (path: .pre-commit-config.yaml)"
+    },
+    ".vscode/extensions.json": {
+      "sha": "e4c0e43340cc7ca04d70d283620a743f774e87a0",
+      "summary": "JSON config file: extensions.json (path: .vscode/extensions.json)"
+    },
+    ".vscode/settings.json": {
+      "sha": "453852f7814aabc05079c6d77fb9e5720f512297",
+      "summary": "JSON config file: settings.json - contains tests, configuration file (path: .vscode/settings.json)"
+    },
+    "CONTRIBUTORS.md": {
+      "sha": "524332c22b9701cf6a6eee41e53e5357c56be670",
+      "summary": "Markdown docs file: CONTRIBUTORS.md (path: CONTRIBUTORS.md)"
+    },
+    "DEPRECATION.md": {
+      "sha": "4f2a212eb4310f5ed079e3a909635149ccf30ff3",
+      "summary": "Markdown docs file: DEPRECATION.md - defines classes/functions, defines data models (path: DEPRECATION.md)"
+    },
+    "DEVELOPMENT.md": {
+      "sha": "2263808af2c1f3dffc91cec66122743455602dee",
+      "summary": "Markdown docs file: DEVELOPMENT.md (path: DEVELOPMENT.md)"
+    },
+    "LICENSE": {
+      "sha": "2c483e26f63a103a3c827bb24f627db45d0a1f4e",
+      "summary": "file file: LICENSE (path: LICENSE)"
+    },
+    "MAINTAINERS.md": {
+      "sha": "39c9a7d9747afa0ed4829b7ddaf1b344f33cd9e0",
+      "summary": "Markdown docs file: MAINTAINERS.md (path: MAINTAINERS.md)"
+    },
+    "Makefile": {
+      "sha": "c07073dc695f62aad10583e5790069848888135b",
+      "summary": "file file: Makefile - contains tests (path: Makefile)"
+    },
+    "POLICIES.md": {
+      "sha": "b46f99c1eefff3e61618e7fe8c42cd5350823db9",
+      "summary": "Markdown docs file: POLICIES.md (path: POLICIES.md)"
+    },
+    "README.md": {
+      "sha": "1df84d3112e39042145f345940558140816cd309",
+      "summary": "Markdown docs file: README.md - contains tests (path: README.md)"
+    },
+    "RELEASES.md": {
+      "sha": "6f13409df8ace6ff0e36d4db0cdccd45e65ffdbe",
+      "summary": "Markdown docs file: RELEASES.md - database migration (path: RELEASES.md)"
+    },
+    "_trulens/trulens/_bundle/__init__.py": {
+      "sha": "c766442c3d371030697ae04af90dc7d04f2dbc4e",
+      "summary": "Python file: __init__.py - module with dependencies (path: _trulens/trulens/_bundle/__init__.py)"
+    },
+    "_trulens/trulens/_bundle/py.typed": {
+      "sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+      "summary": "TYPED file: py.typed (path: _trulens/trulens/_bundle/py.typed)"
+    },
+    "conftest.py": {
+      "sha": "02a2abdecd008b389f69a78ab147cac9f3d63e1b",
+      "summary": "Python file: conftest.py - defines classes/functions, contains tests (path: conftest.py)"
+    },
+    "docker/test-database.yaml": {
+      "sha": "c2f9bb19fcda7f26cd14efd31dcdbfb103e58c63",
+      "summary": "YAML config file: test-database.yaml - contains business logic, contains tests (path: docker/test-database.yaml)"
+    },
+    "docs/CNAME": {
+      "sha": "5fc57b9c1eec18cd24de27bb46128e440cd70583",
+      "summary": "file file: CNAME (path: docs/CNAME)"
+    },
+    "docs/README.md": {
+      "sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+      "summary": "Markdown docs file: README.md (path: docs/README.md)"
+    },
+    "docs/assets/favicon.svg": {
+      "sha": "7bd98ee15bd5a0d31682c72f8d96da5eee44defd",
+      "summary": "SVG file: favicon.svg (path: docs/assets/favicon.svg)"
+    },
+    "docs/assets/favicon/android-chrome-192x192.png": {
+      "sha": "30d42e62c8d5a709620fb0adb28420cdad39ab26",
+      "summary": "PNG file: android-chrome-192x192.png - contains tests (path: docs/assets/favicon/android-chrome-192x192.png)"
+    },
+    "docs/assets/favicon/android-chrome-512x512.png": {
+      "sha": "2c5f7294f8c1ef647ed9fa98d6600577aab0a56e",
+      "summary": "PNG file: android-chrome-512x512.png - contains tests (path: docs/assets/favicon/android-chrome-512x512.png)"
+    },
+    "docs/assets/favicon/apple-touch-icon.png": {
+      "sha": "bd43597f0bc25ee2d6fbad1268d1c2130ea64d33",
+      "summary": "PNG file: apple-touch-icon.png - contains tests (path: docs/assets/favicon/apple-touch-icon.png)"
+    },
+    "docs/assets/favicon/browserconfig.xml": {
+      "sha": "3128033f336117b7d0ec689ae8448ec987870774",
+      "summary": "XML file: browserconfig.xml - configuration file (path: docs/assets/favicon/browserconfig.xml)"
+    },
+    "docs/assets/favicon/favicon-16x16.png": {
+      "sha": "eaff0fa701c8a4c1f1e80dc9cc3b82ce80b36013",
+      "summary": "PNG file: favicon-16x16.png - contains tests (path: docs/assets/favicon/favicon-16x16.png)"
+    },
+    "docs/assets/favicon/favicon-32x32.png": {
+      "sha": "d24fa900dfca899c68b565f664dec73c3c4b86b8",
+      "summary": "PNG file: favicon-32x32.png - contains tests (path: docs/assets/favicon/favicon-32x32.png)"
+    },
+    "docs/assets/favicon/favicon.ico": {
+      "sha": "a913d4515f27288a1ffca28d90ad6b89cabe4ad9",
+      "summary": "ICO file: favicon.ico (path: docs/assets/favicon/favicon.ico)"
+    },
+    "docs/assets/favicon/mstile-144x144.png": {
+      "sha": "b3999ee7f0101fdcf75f4ecb078bf45d15ff3692",
+      "summary": "PNG file: mstile-144x144.png - contains tests (path: docs/assets/favicon/mstile-144x144.png)"
+    },
+    "docs/assets/favicon/mstile-150x150.png": {
+      "sha": "e83c3f364896ffe2091fc5db122abb565e863953",
+      "summary": "PNG file: mstile-150x150.png - contains tests (path: docs/assets/favicon/mstile-150x150.png)"
+    },
+    "docs/assets/favicon/mstile-310x150.png": {
+      "sha": "1c9469ecece57d162aaa9a9cca5ed713b0dbf1a8",
+      "summary": "PNG file: mstile-310x150.png - contains tests (path: docs/assets/favicon/mstile-310x150.png)"
+    },
+    "docs/assets/favicon/mstile-310x310.png": {
+      "sha": "4f8c5f163e84dcc3f94e2ab2257fd91579f3ac22",
+      "summary": "PNG file: mstile-310x310.png - contains tests (path: docs/assets/favicon/mstile-310x310.png)"
+    },
+    "docs/assets/favicon/mstile-70x70.png": {
+      "sha": "1b48b446580514f8f258947e0155c72171fb6616",
+      "summary": "PNG file: mstile-70x70.png - contains tests (path: docs/assets/favicon/mstile-70x70.png)"
+    },
+    "docs/assets/favicon/safari-pinned-tab.svg": {
+      "sha": "19cdbe640f7759889308dfba5c06fc494b82cf35",
+      "summary": "SVG file: safari-pinned-tab.svg - contains tests (path: docs/assets/favicon/safari-pinned-tab.svg)"
+    },
+    "docs/assets/favicon/site.webmanifest": {
+      "sha": "a0c496784d27a3d8937a7c7c5c650e3079fbcb6e",
+      "summary": "WEBMANIFEST file: site.webmanifest (path: docs/assets/favicon/site.webmanifest)"
+    },
+    "docs/assets/images/Chain_Explore.png": {
+      "sha": "e159128ac541021dfc9080bd08f45587c8ef557c",
+      "summary": "PNG file: Chain_Explore.png - contains tests (path: docs/assets/images/Chain_Explore.png)"
+    },
+    "docs/assets/images/Evaluations.png": {
+      "sha": "1ad0af4d515f817ecc94e0a8506ace7f003a5c3b",
+      "summary": "PNG file: Evaluations.png - contains tests (path: docs/assets/images/Evaluations.png)"
+    },
+    "docs/assets/images/Honest_Harmless_Helpful_Evals.png": {
+      "sha": "8c696289df2b1291b0f1e45da063e153860a713e",
+      "summary": "PNG file: Honest_Harmless_Helpful_Evals.png - contains tests (path: docs/assets/images/Honest_Harmless_Helpful_Evals.png)"
+    },
+    "docs/assets/images/Leaderboard.png": {
+      "sha": "c7bdd7acf7a20170f67e2e6cb25b734db2d53e0a",
+      "summary": "PNG file: Leaderboard.png - contains tests (path: docs/assets/images/Leaderboard.png)"
+    },
+    "docs/assets/images/Neural_Network_Explainability.png": {
+      "sha": "f13cee57e20cfbc64be6be38d593f37ea54b193a",
+      "summary": "PNG file: Neural_Network_Explainability.png - contains tests (path: docs/assets/images/Neural_Network_Explainability.png)"
+    },
+    "docs/assets/images/RAG_Triad.png": {
+      "sha": "2bb9015f1a2628ebf3978766207b6ebc30a8cb17",
+      "summary": "PNG file: RAG_Triad.png - contains tests (path: docs/assets/images/RAG_Triad.png)"
+    },
+    "docs/assets/images/Range_of_Feedback_Functions.png": {
+      "sha": "84e9aef634223b8f1e68d7ee379f15ef75a77d72",
+      "summary": "PNG file: Range_of_Feedback_Functions.png - contains tests (path: docs/assets/images/Range_of_Feedback_Functions.png)"
+    },
+    "docs/assets/images/TruLens_Architecture.png": {
+      "sha": "09276101e84e2f17b62743e594dfbc6188cef45e",
+      "summary": "PNG file: TruLens_Architecture.png - contains tests (path: docs/assets/images/TruLens_Architecture.png)"
+    },
+    "docs/assets/images/appui/apps.png": {
+      "sha": "c0ec3b1d60228d15b1c73dedbdc3d0079ab0f026",
+      "summary": "PNG file: apps.png - contains tests (path: docs/assets/images/appui/apps.png)"
+    },
+    "docs/assets/images/appui/blank_session.png": {
+      "sha": "fcde6092a05564e12bb27a8c9b7dde7bd520781f",
+      "summary": "PNG file: blank_session.png - contains tests (path: docs/assets/images/appui/blank_session.png)"
+    },
+    "docs/assets/images/appui/running_session.png": {
+      "sha": "cef2c229de9e635db02e1517651b37b12a388070",
+      "summary": "PNG file: running_session.png - contains tests (path: docs/assets/images/appui/running_session.png)"
+    },
+    "docs/assets/images/logos/cubeserv.svg": {
+      "sha": "c7a22ec32b0a03355f0757ddfa6a7327f8dad1e5",
+      "summary": "SVG file: cubeserv.svg (path: docs/assets/images/logos/cubeserv.svg)"
+    },
+    "docs/assets/images/logos/datec.png": {
+      "sha": "eb4cbc1f52b6069a7df683c98cb41db0df0cbbfe",
+      "summary": "PNG file: datec.png - contains tests (path: docs/assets/images/logos/datec.png)"
+    },
+    "docs/assets/images/logos/equinix.svg": {
+      "sha": "5b6ab90cb49c4c0659d89a56c991901bec870cb8",
+      "summary": "SVG file: equinix.svg (path: docs/assets/images/logos/equinix.svg)"
+    },
+    "docs/assets/images/logos/kbc.png": {
+      "sha": "4a53276968f7d02e35a72164a75c86aee0b0acc0",
+      "summary": "PNG file: kbc.png - contains tests (path: docs/assets/images/logos/kbc.png)"
+    },
+    "docs/assets/images/logos/snowflake.svg": {
+      "sha": "0b5a4fc5cdd39437f3fc0b3bf9907e34171bf5f2",
+      "summary": "SVG file: snowflake.svg (path: docs/assets/images/logos/snowflake.svg)"
+    },
+    "docs/assets/images/logos/tribbleai.png": {
+      "sha": "5f823ce40f7e89a8af827dc731acec5070e760b3",
+      "summary": "PNG file: tribbleai.png - contains tests (path: docs/assets/images/logos/tribbleai.png)"
+    },
+    "docs/assets/images/trulens_1_release_graphic_modular.png": {
+      "sha": "52ab94eb3ef64b3cc4fe1e8e4be94a7e00297926",
+      "summary": "PNG file: trulens_1_release_graphic_modular.png - contains tests (path: docs/assets/images/trulens_1_release_graphic_modular.png)"
+    },
+    "docs/assets/images/trulens_1_release_graphic_split.png": {
+      "sha": "3321d4d022e8189b21aa607f60754416cf312106",
+      "summary": "PNG file: trulens_1_release_graphic_split.png - contains tests (path: docs/assets/images/trulens_1_release_graphic_split.png)"
+    },
+    "docs/assets/videos/trulens_quickstart_dashboard_video.gif": {
+      "sha": "fe73b427d40072eb3a5061165405ccd50149eaf3",
+      "summary": "GIF file: trulens_quickstart_dashboard_video.gif - contains tests (path: docs/assets/videos/trulens_quickstart_dashboard_video.gif)"
+    },
+    "docs/blog/assets/trulens_1_1_dashboard_updates/compare_app.png": {
+      "sha": "d25f1cba176f015173993da76070e77f5c658247",
+      "summary": "PNG file: compare_app.png - contains tests (path: docs/blog/assets/trulens_1_1_dashboard_updates/compare_app.png)"
+    },
+    "docs/blog/assets/trulens_1_1_dashboard_updates/compare_record.png": {
+      "sha": "36b479f0ed2a93a3924dc654f085c5972a25c6ed",
+      "summary": "PNG file: compare_record.png - contains tests (path: docs/blog/assets/trulens_1_1_dashboard_updates/compare_record.png)"
+    },
+    "docs/blog/assets/trulens_1_1_dashboard_updates/dashboard_global_features.gif": {
+      "sha": "da67e315cb94b327744670f179c0da3469a350c2",
+      "summary": "GIF file: dashboard_global_features.gif - contains tests (path: docs/blog/assets/trulens_1_1_dashboard_updates/dashboard_global_features.gif)"
+    },
+    "docs/blog/assets/trulens_1_1_dashboard_updates/leaderboard_metadata.gif": {
+      "sha": "dd203590701cac138fd9bc881e3aed0df02de38b",
+      "summary": "GIF file: leaderboard_metadata.gif - contains tests (path: docs/blog/assets/trulens_1_1_dashboard_updates/leaderboard_metadata.gif)"
+    },
+    "docs/blog/assets/trulens_1_1_dashboard_updates/record_page.gif": {
+      "sha": "2b9912cd869ba708817026b4766827f0e9e73861",
+      "summary": "GIF file: record_page.gif - contains tests (path: docs/blog/assets/trulens_1_1_dashboard_updates/record_page.gif)"
+    },
+    "docs/blog/assets/trulens_otel/langgraph_trace.png": {
+      "sha": "25f7b4c915ab51a946c6186bd3d81d5b58a25e09",
+      "summary": "PNG file: langgraph_trace.png - contains tests (path: docs/blog/assets/trulens_otel/langgraph_trace.png)"
+    },
+    "docs/blog/index.md": {
+      "sha": "05761ac57f6bcedf28c34c3867849df97ef89a8b",
+      "summary": "Markdown docs file: index.md (path: docs/blog/index.md)"
+    },
+    "docs/blog/posts/release_blog_1dot.md": {
+      "sha": "fb27fe7781f1c6144e99099f6868cf50bdf69f96",
+      "summary": "Markdown docs file: release_blog_1dot.md - module with dependencies (path: docs/blog/posts/release_blog_1dot.md)"
+    },
+    "docs/blog/posts/trulens_1_1_dashboard_updates.md": {
+      "sha": "2c745108319d1ab748ebf0b2dbaa123cbe4944e0",
+      "summary": "Markdown docs file: trulens_1_1_dashboard_updates.md (path: docs/blog/posts/trulens_1_1_dashboard_updates.md)"
+    },
+    "docs/blog/posts/trulens_otel.md": {
+      "sha": "644cec5412b726461826441389ae77e8ae88d695",
+      "summary": "Markdown docs file: trulens_otel.md (path: docs/blog/posts/trulens_otel.md)"
+    },
+    "docs/component_guides/evaluation/feedback_aggregation.md": {
+      "sha": "9a3ab8be9e01499ccd0d8bb1043c56d7915a9a57",
+      "summary": "Markdown docs file: feedback_aggregation.md - contains tests (path: docs/component_guides/evaluation/feedback_aggregation.md)"
+    },
+    "docs/component_guides/evaluation/feedback_anatomy.md": {
+      "sha": "b1c5579baaadfe0e86ba839e5b0c2a51265c2b3d",
+      "summary": "Markdown docs file: feedback_anatomy.md - defines classes/functions, contains tests (path: docs/component_guides/evaluation/feedback_anatomy.md)"
+    },
+    "docs/component_guides/evaluation/feedback_implementations/custom_feedback_functions.ipynb": {
+      "sha": "9d07fd8a052842debcf1c7729f2e172a0584af3d",
+      "summary": "IPYNB file: custom_feedback_functions.ipynb (path: docs/component_guides/evaluation/feedback_implementations/custom_feedback_functions.ipynb)"
+    },
+    "docs/component_guides/evaluation/feedback_implementations/index.md": {
+      "sha": "d62f2d942823096b302c62fd51b4cad4ca915c97",
+      "summary": "Markdown docs file: index.md (path: docs/component_guides/evaluation/feedback_implementations/index.md)"
+    },
+    "docs/component_guides/evaluation/feedback_implementations/stock.md": {
+      "sha": "ae404654bab37aabba678ea351166ac37829fe9a",
+      "summary": "Markdown docs file: stock.md (path: docs/component_guides/evaluation/feedback_implementations/stock.md)"
+    },
+    "docs/component_guides/evaluation/feedback_providers.md": {
+      "sha": "50d17b83ea87bb78b114432d3b8079903d7e8339",
+      "summary": "Markdown docs file: feedback_providers.md - defines data models (path: docs/component_guides/evaluation/feedback_providers.md)"
+    },
+    "docs/component_guides/evaluation/feedback_selectors/index.md": {
+      "sha": "714e62aaaeaf07be9c131b486b87d8717b19a1a5",
+      "summary": "Markdown docs file: index.md (path: docs/component_guides/evaluation/feedback_selectors/index.md)"
+    },
+    "docs/component_guides/evaluation/feedback_selectors/selecting_components.md": {
+      "sha": "7d3a459ce0f68add09af79115aca596a278fddf6",
+      "summary": "Markdown docs file: selecting_components.md - contains tests (path: docs/component_guides/evaluation/feedback_selectors/selecting_components.md)"
+    },
+    "docs/component_guides/evaluation/feedback_selectors/selector_shortcuts.md": {
+      "sha": "cb0d2a19bcfd6ebe6e1b563bf1d4fc6e547cbca5",
+      "summary": "Markdown docs file: selector_shortcuts.md - contains tests (path: docs/component_guides/evaluation/feedback_selectors/selector_shortcuts.md)"
+    },
+    "docs/component_guides/evaluation/generate_test_cases.md": {
+      "sha": "729dc2cbca451ca7bc58bb31410c0270cd55b832",
+      "summary": "Markdown docs file: generate_test_cases.md - contains tests, module with dependencies (path: docs/component_guides/evaluation/generate_test_cases.md)"
+    },
+    "docs/component_guides/evaluation/index.md": {
+      "sha": "ce26d078253656eb1aec0f35cd2d6cd602f3aa9b",
+      "summary": "Markdown docs file: index.md - contains tests, module with dependencies (path: docs/component_guides/evaluation/index.md)"
+    },
+    "docs/component_guides/evaluation/running_feedback_functions/existing_data.md": {
+      "sha": "0e1b0ce4e31243ebcbbfdfdc0b8e5dad50c44b21",
+      "summary": "Markdown docs file: existing_data.md (path: docs/component_guides/evaluation/running_feedback_functions/existing_data.md)"
+    },
+    "docs/component_guides/evaluation/running_feedback_functions/with_app.md": {
+      "sha": "454bf545112b9c6128eebc6ab26efb9ac7c58bff",
+      "summary": "Markdown docs file: with_app.md - contains tests (path: docs/component_guides/evaluation/running_feedback_functions/with_app.md)"
+    },
+    "docs/component_guides/index.md": {
+      "sha": "1ba1a0490033942e3d7d5d3ffd82ae2876c2ebde",
+      "summary": "Markdown docs file: index.md (path: docs/component_guides/index.md)"
+    },
+    "docs/component_guides/instrumentation/.gitignore": {
+      "sha": "f4e3f1950ca24854d2e1ce26b1305919ec014238",
+      "summary": "GITIGNORE file: .gitignore - configuration file (path: docs/component_guides/instrumentation/.gitignore)"
+    },
+    "docs/component_guides/instrumentation/index.md": {
+      "sha": "4b41ad7a687c15472e6ece1765d5c419ea81af01",
+      "summary": "Markdown docs file: index.md - configuration file (path: docs/component_guides/instrumentation/index.md)"
+    },
+    "docs/component_guides/instrumentation/langchain.md": {
+      "sha": "6e96e0315e899aa5c8ca275604301ff4dd84234b",
+      "summary": "Markdown docs file: langchain.md - contains tests (path: docs/component_guides/instrumentation/langchain.md)"
+    },
+    "docs/component_guides/instrumentation/langgraph.md": {
+      "sha": "b831e38bd0bc51333015bb77acd84eb71dcf137f",
+      "summary": "Markdown docs file: langgraph.md - contains tests (path: docs/component_guides/instrumentation/langgraph.md)"
+    },
+    "docs/component_guides/instrumentation/llama_index.md": {
+      "sha": "7d6c943fc3af5e099d384480dd1d2873249b2636",
+      "summary": "Markdown docs file: llama_index.md - contains tests, module with dependencies (path: docs/component_guides/instrumentation/llama_index.md)"
+    },
+    "docs/component_guides/logging/logging.ipynb": {
+      "sha": "a8c54b589f70a96ab78790dd0bc6495a861b9bd5",
+      "summary": "IPYNB file: logging.ipynb - module with dependencies (path: docs/component_guides/logging/logging.ipynb)"
+    },
+    "docs/component_guides/logging/where_to_log/index.md": {
+      "sha": "30273a9525a48695fe8e666399d5fe716543962e",
+      "summary": "Markdown docs file: index.md (path: docs/component_guides/logging/where_to_log/index.md)"
+    },
+    "docs/component_guides/logging/where_to_log/log_in_snowflake.md": {
+      "sha": "bcc8b62ab97bf8e74ee99198ef2f5790aa04cb8e",
+      "summary": "Markdown docs file: log_in_snowflake.md - module with dependencies (path: docs/component_guides/logging/where_to_log/log_in_snowflake.md)"
+    },
+    "docs/component_guides/other/no_context_warning.md": {
+      "sha": "e6c5046c157cb0a3fc384accf01df3972b4b38d5",
+      "summary": "Markdown docs file: no_context_warning.md - module with dependencies (path: docs/component_guides/other/no_context_warning.md)"
+    }
+  }
+}
